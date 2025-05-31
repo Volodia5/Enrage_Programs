@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\EnrageTgAndDiscordBots\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF24E0D8-2A75-42A3-A9CE-97DD2A276401}|EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots.csproj|C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\EnrageTgAndDiscordBots\\enragetganddiscordbots\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF24E0D8-2A75-42A3-A9CE-97DD2A276401}|EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots.csproj|solutionrelative:enragetganddiscordbots\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF24E0D8-2A75-42A3-A9CE-97DD2A276401}|EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\enragetganddiscordbots\\enragetganddiscordbots\\telegrambot\\bot\\router\\datastorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF24E0D8-2A75-42A3-A9CE-97DD2A276401}|EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots.csproj|solutionrelative:enragetganddiscordbots\\telegrambot\\bot\\router\\datastorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF24E0D8-2A75-42A3-A9CE-97DD2A276401}|EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots.csproj|C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\EnrageTgAndDiscordBots\\enragetganddiscordbots\\enragetganddiscordbots.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CF24E0D8-2A75-42A3-A9CE-97DD2A276401}|EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots.csproj|solutionrelative:enragetganddiscordbots\\enragetganddiscordbots.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF24E0D8-2A75-42A3-A9CE-97DD2A276401}|EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots.csproj|C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\EnrageTgAndDiscordBots\\enragetganddiscordbots\\telegrambot\\bot\\botrequesthandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF24E0D8-2A75-42A3-A9CE-97DD2A276401}|EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots.csproj|solutionrelative:enragetganddiscordbots\\telegrambot\\bot\\botrequesthandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF24E0D8-2A75-42A3-A9CE-97DD2A276401}|EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots.csproj|C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\EnrageTgAndDiscordBots\\enragetganddiscordbots\\telegrambot\\service\\searchteammatemenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF24E0D8-2A75-42A3-A9CE-97DD2A276401}|EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots.csproj|solutionrelative:enragetganddiscordbots\\telegrambot\\service\\searchteammatemenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF24E0D8-2A75-42A3-A9CE-97DD2A276401}|EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots.csproj|C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\EnrageTgAndDiscordBots\\enragetganddiscordbots\\telegrambot\\util\\string\\dialogsstringsstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF24E0D8-2A75-42A3-A9CE-97DD2A276401}|EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots.csproj|solutionrelative:enragetganddiscordbots\\telegrambot\\util\\string\\dialogsstringsstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF24E0D8-2A75-42A3-A9CE-97DD2A276401}|EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots.csproj|C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\EnrageTgAndDiscordBots\\enragetganddiscordbots\\prefixhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF24E0D8-2A75-42A3-A9CE-97DD2A276401}|EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots.csproj|solutionrelative:enragetganddiscordbots\\prefixhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF24E0D8-2A75-42A3-A9CE-97DD2A276401}|EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots.csproj|C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\EnrageTgAndDiscordBots\\enragetganddiscordbots\\discordbot\\modules\\verificationmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF24E0D8-2A75-42A3-A9CE-97DD2A276401}|EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots.csproj|solutionrelative:enragetganddiscordbots\\discordbot\\modules\\verificationmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF24E0D8-2A75-42A3-A9CE-97DD2A276401}|EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots.csproj|C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\EnrageTgAndDiscordBots\\enragetganddiscordbots\\discordbot\\modules\\reverificationmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF24E0D8-2A75-42A3-A9CE-97DD2A276401}|EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots.csproj|solutionrelative:enragetganddiscordbots\\discordbot\\modules\\reverificationmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF24E0D8-2A75-42A3-A9CE-97DD2A276401}|EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots.csproj|C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\EnrageTgAndDiscordBots\\enragetganddiscordbots\\discordbot\\modules\\stratzparsermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF24E0D8-2A75-42A3-A9CE-97DD2A276401}|EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots.csproj|solutionrelative:enragetganddiscordbots\\discordbot\\modules\\stratzparsermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF24E0D8-2A75-42A3-A9CE-97DD2A276401}|EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots.csproj|C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\EnrageTgAndDiscordBots\\enragetganddiscordbots\\discordbot\\bot\\errorapicodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF24E0D8-2A75-42A3-A9CE-97DD2A276401}|EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots.csproj|solutionrelative:enragetganddiscordbots\\discordbot\\bot\\errorapicodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 224,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnrageTgAndDiscordBots",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots.csproj",
+              "RelativeDocumentMoniker": "EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots.csproj",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots.csproj",
+              "RelativeToolTip": "EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-23T14:17:22.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataStorage.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots\\TelegramBot\\Bot\\Router\\DataStorage.cs",
+              "RelativeDocumentMoniker": "EnrageTgAndDiscordBots\\TelegramBot\\Bot\\Router\\DataStorage.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots\\TelegramBot\\Bot\\Router\\DataStorage.cs",
+              "RelativeToolTip": "EnrageTgAndDiscordBots\\TelegramBot\\Bot\\Router\\DataStorage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T09:52:35.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots\\Program.cs",
+              "RelativeDocumentMoniker": "EnrageTgAndDiscordBots\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots\\Program.cs",
+              "RelativeToolTip": "EnrageTgAndDiscordBots\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAswB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T09:49:47.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BotRequestHandlers.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots\\TelegramBot\\Bot\\BotRequestHandlers.cs",
+              "RelativeDocumentMoniker": "EnrageTgAndDiscordBots\\TelegramBot\\Bot\\BotRequestHandlers.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots\\TelegramBot\\Bot\\BotRequestHandlers.cs",
+              "RelativeToolTip": "EnrageTgAndDiscordBots\\TelegramBot\\Bot\\BotRequestHandlers.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAkwBgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T09:51:50.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SearchTeammateMenuService.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots\\TelegramBot\\Service\\SearchTeammateMenuService.cs",
+              "RelativeDocumentMoniker": "EnrageTgAndDiscordBots\\TelegramBot\\Service\\SearchTeammateMenuService.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots\\TelegramBot\\Service\\SearchTeammateMenuService.cs",
+              "RelativeToolTip": "EnrageTgAndDiscordBots\\TelegramBot\\Service\\SearchTeammateMenuService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAkwBsAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T09:50:36.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DialogsStringsStorage.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots\\TelegramBot\\Util\\String\\DialogsStringsStorage.cs",
+              "RelativeDocumentMoniker": "EnrageTgAndDiscordBots\\TelegramBot\\Util\\String\\DialogsStringsStorage.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots\\TelegramBot\\Util\\String\\DialogsStringsStorage.cs",
+              "RelativeToolTip": "EnrageTgAndDiscordBots\\TelegramBot\\Util\\String\\DialogsStringsStorage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T09:50:32.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PrefixHandler.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots\\PrefixHandler.cs",
+              "RelativeDocumentMoniker": "EnrageTgAndDiscordBots\\PrefixHandler.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots\\PrefixHandler.cs",
+              "RelativeToolTip": "EnrageTgAndDiscordBots\\PrefixHandler.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T09:50:18.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorApiCodes.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots\\DiscordBot\\Bot\\ErrorApiCodes.cs",
+              "RelativeDocumentMoniker": "EnrageTgAndDiscordBots\\DiscordBot\\Bot\\ErrorApiCodes.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots\\DiscordBot\\Bot\\ErrorApiCodes.cs",
+              "RelativeToolTip": "EnrageTgAndDiscordBots\\DiscordBot\\Bot\\ErrorApiCodes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T19:33:47.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VerificationModule.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots\\DiscordBot\\Modules\\VerificationModule.cs",
+              "RelativeDocumentMoniker": "EnrageTgAndDiscordBots\\DiscordBot\\Modules\\VerificationModule.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots\\DiscordBot\\Modules\\VerificationModule.cs",
+              "RelativeToolTip": "EnrageTgAndDiscordBots\\DiscordBot\\Modules\\VerificationModule.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAlwBcAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T18:25:54.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StratzParserModule.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots\\DiscordBot\\Modules\\StratzParserModule.cs",
+              "RelativeDocumentMoniker": "EnrageTgAndDiscordBots\\DiscordBot\\Modules\\StratzParserModule.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots\\DiscordBot\\Modules\\StratzParserModule.cs",
+              "RelativeToolTip": "EnrageTgAndDiscordBots\\DiscordBot\\Modules\\StratzParserModule.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwCMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T18:24:57.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReVerificationModule.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots\\DiscordBot\\Modules\\ReVerificationModule.cs",
+              "RelativeDocumentMoniker": "EnrageTgAndDiscordBots\\DiscordBot\\Modules\\ReVerificationModule.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\EnrageTgAndDiscordBots\\EnrageTgAndDiscordBots\\DiscordBot\\Modules\\ReVerificationModule.cs",
+              "RelativeToolTip": "EnrageTgAndDiscordBots\\DiscordBot\\Modules\\ReVerificationModule.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T08:14:18.826Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
